@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "P4IPonSp38W0K3yIx5DW+Y0/awFLYGBUIXxXvO/sAeg=",
+  "Source": "Blog",
+  "BasePath": "_content/Blog",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blog\\wwwroot",
+      "Source": "Blog",
+      "ContentRoot": "C:\\dev\\api-aspnet-blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\dev\\api-aspnet-blog\\wwwroot\\images\\f404bcc5-030c-478a-8c67-4c0c61f21253.jpg",
+      "SourceId": "Blog",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\api-aspnet-blog\\wwwroot\\",
+      "BasePath": "_content/Blog",
+      "RelativePath": "images/f404bcc5-030c-478a-8c67-4c0c61f21253.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\f404bcc5-030c-478a-8c67-4c0c61f21253.jpg"
+    }
+  ]
+}
