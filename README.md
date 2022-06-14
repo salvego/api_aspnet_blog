@@ -1,1 +1,5 @@
-# api_aspnet_blog
+Blog
+
+API Blog
+
+API desenvolvido em C# AspNet + SQLServer (Docker)
